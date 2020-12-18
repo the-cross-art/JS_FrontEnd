@@ -1490,6 +1490,7 @@
      position: relative;
 }
  .footer-copyright p {
+    padding: 1px;
      text-align: center;
      color: #ffffff;
      font-size: 16px;
